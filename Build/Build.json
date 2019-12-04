@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project 1",
+"companyName": "Blandman",
+"productName": "Cybertruck Simulator",
 "productVersion": "1.0",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
@@ -9,6 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.2.14f1"
