@@ -1,6 +1,7 @@
 # Cybertruck Simulator
 
 ## Play for free [online](https://blandman.github.io/cybertruck)
+## Download for [ios](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)
 
 ### Featuring
 
