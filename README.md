@@ -4,7 +4,7 @@
 
 ## Download for mobile
 [![Download for iOS](https://raw.githubusercontent.com/Volorf/Badges/master/App%20Store/App%20Store%20Badge.svg)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)
-[![Download for Android](https://raw.githubusercontent.com/Volorf/Badges/master/Google%20Play/Google%20Play%20Badge.svg)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)
+[![Download for Android](https://github.com/Volorf/Badges/blob/master/Google%20Play/Google%20Play%20Badge.png?raw=true)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)
 
 
 ### Featuring
