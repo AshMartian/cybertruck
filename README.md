@@ -1,6 +1,6 @@
 # Cybertruck Simulator
 
-## Play for free [online](https://ashmartian.github.io/cybertruck)
+## Play for free [online](https://cybertruck.ashmartian.com)
 
 ## Download for mobile
 [![Download for iOS](https://github.com/Volorf/Badges/blob/master/App%20Store/App%20Store%20Badge.png?raw=true)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)  
