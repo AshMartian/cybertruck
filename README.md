@@ -2,6 +2,8 @@
 
 ## Play for free [online](https://cybertruck.ashmartian.com)
 
+## Play the BETA [online](https://cybertruck.ashmartian.com/beta/index.html)
+
 ## Download for mobile
 [![Download for iOS](https://github.com/Volorf/Badges/blob/master/App%20Store/App%20Store%20Badge.png?raw=true)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)  
 [![Download for Android](https://github.com/Volorf/Badges/blob/master/Google%20Play/Google%20Play%20Badge.png?raw=true)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)
