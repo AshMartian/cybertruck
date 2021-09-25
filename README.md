@@ -5,10 +5,10 @@
 ## Play the BETA [online](https://cybertruck.ashmartian.com/beta/index.html)
 
 ## Download for mobile
-[![Download for iOS](https://github.com/Volorf/Badges/blob/master/App%20Store/App%20Store%20Badge.png?raw=true)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)  
-[![Download for Android](https://github.com/Volorf/Badges/blob/master/Google%20Play/Google%20Play%20Badge.png?raw=true)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)  
-[![Download for Mac](https://reachify.io/wp-content/uploads/2018/09/mac-download-button-1.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/CybertruckSimulator.dmg)  
-[![Download for Windows](https://freeiconshop.com/wp-content/uploads/edd/windows-badge.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/cybertruck-sim-windows.zip)  
+[![Download for iOS](Screenshots/App%20Store%20Badge.png)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)  
+[![Download for Android](Screenshots/Google%20Play%20Badge.png)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)  
+[![Download for Mac](Screenshots/68747470733a2f2f72656163686966792e696f2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f6d61632d646f776e6c6f61642d627574746f6e2d312e706e67.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/CybertruckSimulator.dmg)  
+[![Download for Windows](Screenshots/windows-button.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/cybertruck-sim-windows.zip)  
 
 
 ### Featuring
