@@ -6,9 +6,9 @@
 
 ## Download for mobile
 [![Download for iOS](https://github.com/Volorf/Badges/blob/master/App%20Store/App%20Store%20Badge.png?raw=true)](https://apps.apple.com/us/app/cybertruck-sim/id1490936469?ls=1)  
-[![Download for Android](https://github.com/Volorf/Badges/blob/master/Google%20Play/Google%20Play%20Badge.png?raw=true)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)
-[![Download for Mac](https://reachify.io/wp-content/uploads/2018/09/mac-download-button-1.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/CybertruckSimulator.dmg)
-[![Download for Windows](https://freeiconshop.com/wp-content/uploads/edd/windows-badge.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/cybertruck-sim-windows.zip)
+[![Download for Android](https://github.com/Volorf/Badges/blob/master/Google%20Play/Google%20Play%20Badge.png?raw=true)](https://play.google.com/store/apps/details?id=life.brandonmartin.cybertruck)  
+[![Download for Mac](https://reachify.io/wp-content/uploads/2018/09/mac-download-button-1.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/CybertruckSimulator.dmg)  
+[![Download for Windows](https://freeiconshop.com/wp-content/uploads/edd/windows-badge.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/cybertruck-sim-windows.zip)  
 
 
 ### Featuring
