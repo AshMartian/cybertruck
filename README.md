@@ -10,6 +10,7 @@
 [![Download for Mac](Screenshots/68747470733a2f2f72656163686966792e696f2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f6d61632d646f776e6c6f61642d627574746f6e2d312e706e67.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/CybertruckSimulator.dmg)  
 [![Download for Windows](Screenshots/windows-button.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/ash-entertainment-cybertruck-sim-default-windows-desktop-64-bit-1.zip)  (Windows = Beta)
 
+Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-development)
 
 ### Featuring
 
@@ -21,7 +22,13 @@
 - Help Starmen
 - No Ads or waiting
 
-Song Saturn by RIZ LA VIE
+Music by RIZ LA VIE
+
+### Beta includes
+
+- Real Mars heightmap 17:1 scale
+- Personal Starship that you can summon and ride anywhere on Mars
+- Build bases wherever you want (minimum distance from starship)
 
 ![Screenshot](Screenshots/iPadCybertruckScreen1.png)
 ![Screenshot2](Screenshots/iPadCybertruckScreen2.png)
