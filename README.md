@@ -1,4 +1,4 @@
-# Cybertruck Simulator
+![Logo](Screenshots/Logo.png)
 
 ## Play for free [online](https://cybertruck.ashmartian.com)
 
@@ -11,6 +11,8 @@
 [![Download for Windows](Screenshots/windows-button.png)](https://cybertruck-simulator.s3-us-west-2.amazonaws.com/ash-entertainment-cybertruck-sim-default-windows-desktop-64-bit-1.zip)  (Windows = Beta)
 
 Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-development)
+
+![Screenshot5](Screenshots/Screenshot%202021-10-10%20022923.png)
 
 ### Featuring
 
@@ -30,6 +32,9 @@ Music by RIZ LA VIE
 - Personal Starship that you can summon and ride anywhere on Mars
 - Build bases wherever you want (minimum distance from starship)
 
-![Screenshot](Screenshots/iPadCybertruckScreen1.png)
-![Screenshot2](Screenshots/iPadCybertruckScreen2.png)
-![Screenshot3](Screenshots/IMG_3922.PNG)
+![Screenshot](Screenshots/Screenshot%202021-10-10%20021013.png)
+![Screenshot2](Screenshots/Screenshot%202021-10-10%20021111.png)
+![Screenshot3](Screenshots/Screenshot%202021-10-10%20021138.png)
+![Screenshot4](Screenshots/Screenshot%202021-10-10%20022131.png)
+![Screenshot5](Screenshots/Screenshot%202021-10-10%20021138.png)
+![Screenshot6](Screenshots/Screenshot%202021-10-06%20184601.png)
