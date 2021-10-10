@@ -36,5 +36,5 @@ Music by RIZ LA VIE
 ![Screenshot2](Screenshots/Screenshot%202021-10-10%20021111.png)
 ![Screenshot3](Screenshots/Screenshot%202021-10-10%20021138.png)
 ![Screenshot4](Screenshots/Screenshot%202021-10-10%20022131.png)
-![Screenshot5](Screenshots/Screenshot%202021-10-10%20021138.png)
+![Screenshot5](Screenshots/Screenshot%202021-10-06%20180122.png)
 ![Screenshot6](Screenshots/Screenshot%202021-10-06%20184601.png)
