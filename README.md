@@ -10,6 +10,7 @@
 (Pending approval on Steam)
 
 Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-development)
+[![Join Discord](Screenshots/discord-button.png)](https://discord.gg/J3y8u4JKfq)
 
 ![Screenshot5](Screenshots/Screenshot%202021-10-10%20022923.png)
 
