@@ -18,7 +18,7 @@ Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-deve
 
 - Enjoy driving Cybertruck off road
 - Quests
-- Collectables to gain XP and achievements
+- Collect $DOGE and Propogate Mushrooms to gain XP
 - Unlockable Upgrades including color, graphics, effects and accessories (Mods).
 - Deliver cargo to build bases
 - Help Starmen
