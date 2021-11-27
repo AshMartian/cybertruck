@@ -17,6 +17,9 @@ Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-deve
 ### Featuring
 
 - Enjoy driving Cybertruck off road
+- Real Mars heightmap 17:1 scale
+- Personal Starship that you can summon and ride anywhere on Mars
+- Build bases wherever you want (minimum distance from starship)
 - Quests
 - Collect $DOGE and Propogate Mushrooms to gain XP
 - Unlockable Upgrades including color, graphics, effects and accessories (Mods).
@@ -25,12 +28,6 @@ Follow development on [Trello](https://trello.com/b/8cJgFU5C/cybertruck-sim-deve
 - No Ads or waiting
 
 Music by RIZ LA VIE
-
-### Beta includes
-
-- Real Mars heightmap 17:1 scale
-- Personal Starship that you can summon and ride anywhere on Mars
-- Build bases wherever you want (minimum distance from starship)
 
 ![Screenshot](Screenshots/Screenshot%202021-10-10%20021013.png)
 ![Screenshot2](Screenshots/Screenshot%202021-10-10%20021111.png)
